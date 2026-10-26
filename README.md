@@ -69,4 +69,14 @@ Future Scope
 
 Conclusion
 
-This project demonstrates a basic loan eligibility checking workflow and introduces programming and machine-learning concepts in the BFSI sector. It also highlights the importance of responsible technology in financial services.
+This project demonstrates a basic loan eligibility checking workflow and introduces programming and machine-learning concepts in the BFSI sector. It also highlights the importance of responsible technology in financial services.## Project Documentation
+
+[Download the Complete Project Report (PDF)](AI_BFSI_Loan_Eligibility_Project_Report_Sakshi_Chavan.pdf)
+
+## Live Demo
+
+[Open the Loan Eligibility Checker](https://huggingface.co/spaces/sakshichavan2711/ai-bfsi-loan-eligibility)
+
+## Source Code
+
+[View the GitHub Repository](https://github.com/chavsakshi2005-design/ai-bfsi-loan-eligibility)
