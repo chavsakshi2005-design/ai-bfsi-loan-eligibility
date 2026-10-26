@@ -71,7 +71,7 @@ Conclusion
 
 This project demonstrates a basic loan eligibility checking workflow and introduces programming and machine-learning concepts in the BFSI sector. It also highlights the importance of responsible technology in financial services.## Project Documentation
 
-[Download the Complete Project Report (PDF)](AI_BFSI_Loan_Eligibility_Project_Report_Sakshi_Chavan.pdf)
+Download complete project report [View the Complete Project Report (Word)](AI_BFSI_Loan_Eligibility_Project_Report_Sakshi_Chavan.docx)
 
 ## Live Demo
 
